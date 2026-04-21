@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meshery Documentation on Documentation</title><link>/</link><description>Recent content in Meshery Documentation on Documentation</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>v1.0.7</title><link>/project/releases/v1.0.7/</link><pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate><guid>/project/releases/v1.0.7/</guid><description>&lt;h2 id="whats-new"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Meshery Documentation on Documentation</title><link>/</link><description>Recent content in Meshery Documentation on Documentation</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>v1.0.9</title><link>/project/releases/v1.0.9/</link><pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate><guid>/project/releases/v1.0.9/</guid><description>&lt;h2 id="whats-new"&gt;
+	What&amp;rsquo;s New
+&lt;/h2&gt;
+&lt;h2 id="-general"&gt;
+	🔤 General
+&lt;/h2&gt;
+&lt;h2 id="-meshery-cli"&gt;
+	⌨️ Meshery CLI
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;refactor(mesheryctl): Improve error messages for model init missing argument @lekaf974 (#18699)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\[Fix\] Resolve Server Panics in Provider logic and K8s Context Handlers&lt;/code&gt; @KumarADITHYA123 (#18718)&lt;/li&gt;
+&lt;li&gt;fixes environment fetch failures by aligning the server’s query parameter handling with the UI contract. @saurabhraghuvanshii (#18639)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-meshery-ui"&gt;
+	🖥 Meshery UI
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[UI] Document and enforce @/theme entrypoint @jamieplu (#18764)&lt;/li&gt;
+&lt;li&gt;[UI] Align @/theme export surface with Sistent @jamieplu (#18761)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\[Fix\] Resolve Server Panics in Provider logic and K8s Context Handlers&lt;/code&gt; @KumarADITHYA123 (#18718)&lt;/li&gt;
+&lt;li&gt;[UI] Add palette accessors to ui/theme/index.ts @jamieplu (#18762)&lt;/li&gt;
+&lt;li&gt;[UI] Route app theme infrastructure through @/theme @jamieplu (#18763)&lt;/li&gt;
+&lt;li&gt;Bump follow-redirects from 1.15.11 to 1.16.0 in /provider-ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18708)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-maintenance"&gt;
+	🧰 Maintenance
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update build-and-preview-docs.yml @CodexRaunak (#18774)&lt;/li&gt;
+&lt;li&gt;[UI] Add palette accessors to ui/theme/index.ts @jamieplu (#18762)&lt;/li&gt;
+&lt;li&gt;Bump follow-redirects from 1.15.11 to 1.16.0 in /provider-ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18708)&lt;/li&gt;
+&lt;li&gt;chore(workflow): unblock docs-noob-tester with write permissions and … @Junnygram (#18715)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-documentation"&gt;
+	📖 Documentation
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Utkarsh Anand&amp;rsquo;s of week 17-04-2026 @ITACHI161105 (#18794)&lt;/li&gt;
+&lt;li&gt;Attendance: Madaminjon Esanov (devesanoff) - Week of April 16, 2026 @Devesanoff (#18793)&lt;/li&gt;
+&lt;li&gt;Create Utkarsh-Anand.md @Bhumikagarggg (#18792)&lt;/li&gt;
+&lt;li&gt;Create SohamBabrekar.md @Bhumikagarggg (#18791)&lt;/li&gt;
+&lt;li&gt;Create Ankit-Rewar.md @Bhumikagarggg (#18790)&lt;/li&gt;
+&lt;li&gt;Added introduction for Prarthana Vadeesha @prarii (#18789)&lt;/li&gt;
+&lt;li&gt;Add Put-your-name.md for participant introductions @Bhumikagarggg (#18788)&lt;/li&gt;
+&lt;li&gt;Create Gaurav_Chaudhary.md @ANAMASGARD (#18787)&lt;/li&gt;
+&lt;li&gt;Add introduction for Shivam in markdown file @kryptonn36 (#18786)&lt;/li&gt;
+&lt;li&gt;Add introduction for Sulagna Ghosh @suzy-g38 (#18785)&lt;/li&gt;
+&lt;li&gt;Add Kavitha Karunakaran&amp;rsquo;s bio to meetings documentation @matrixkavi (#18784)&lt;/li&gt;
+&lt;li&gt;Add Yash-Mahakal.md with introduction @YASHMAHAKAL (#18783)&lt;/li&gt;
+&lt;li&gt;Add attendance instructions to meeting notes @YASHMAHAKAL (#18773)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\[Fix\] Resolve Server Panics in Provider logic and K8s Context Handlers&lt;/code&gt; @KumarADITHYA123 (#18718)&lt;/li&gt;
+&lt;li&gt;[Docs] Add OpenGraph and Twitter image tags for docs @nitheeshmk41 (#18566)&lt;/li&gt;
+&lt;li&gt;fix: added toggle visibility button @banana-three-join (#18308)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-contributors"&gt;
+	👨🏽‍💻 Contributors
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@ANAMASGARD, @Bhumikagarggg, @CodexRaunak, @Devesanoff, @ITACHI161105, @Junnygram, @KumarADITHYA123, @PragalvaXFREZ, @YASHMAHAKAL, @alexquincy, @banana-three-join, @fitzergerald, @jamieplu, @kryptonn36, @l5io, @leecalcote, @lekaf974, @marblom007, @matrixkavi, @miacycle, @nitheeshmk41, @prarii, @saurabhraghuvanshii, @suzy-g38, @winkletinkle and [dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>v1.0.8</title><link>/project/releases/v1.0.8/</link><pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate><guid>/project/releases/v1.0.8/</guid><description>&lt;h2 id="whats-new"&gt;
+	What&amp;rsquo;s New
+&lt;/h2&gt;
+&lt;h2 id="-general"&gt;
+	🔤 General
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump follow-redirects from 1.15.11 to 1.16.0 in /install/docker-extension/ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18710)&lt;/li&gt;
+&lt;li&gt;test: add unit tests for EncodeRefUrl and DecodeRefURL @ashwanisingh011 (#17983)&lt;/li&gt;
+&lt;li&gt;Add UI restructuring to roadmap for v1.1.0 @miacycle (#18655)&lt;/li&gt;
+&lt;li&gt;Upgrade meshsync and k8s deps to v0.35.2 @leecalcote (#18685)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-meshery-cli"&gt;
+	⌨️ Meshery CLI
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[mesheryctl] Align component view e2e assertions with current CLI output @hssuryawanshib23-afk (#18604)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-meshery-ui"&gt;
+	🖥 Meshery UI
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[Chore]: Update to Sistent v0.18.7 @l5io (#18711)&lt;/li&gt;
+&lt;li&gt;[UI] Fix back tooltip position in design configurator @Rajesh-Nagarajan-11 (#18714)&lt;/li&gt;
+&lt;li&gt;Bump follow-redirects from 1.15.11 to 1.16.0 in /ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18709)&lt;/li&gt;
+&lt;li&gt;[Chore]: Update to Sistent v0.18.6 @l5io (#18706)&lt;/li&gt;
+&lt;li&gt;Bump axios from 1.13.6 to 1.15.0 in /provider-ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18628)&lt;/li&gt;
+&lt;li&gt;[UI] Add @/theme re-export entry point @leecalcote (#18663)&lt;/li&gt;
+&lt;li&gt;feat(dashboard): enforce minimum size constraints for widgets @Rajesh-Nagarajan-11 (#18673)&lt;/li&gt;
+&lt;li&gt;[Server] Policies: Port OPA/Rego policy engine to native Go @guan404ming (#17330)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-maintenance"&gt;
+	🧰 Maintenance
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump follow-redirects from 1.15.11 to 1.16.0 in /ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18709)&lt;/li&gt;
+&lt;li&gt;Comment on pruned PR previews @CodexRaunak (#18713)&lt;/li&gt;
+&lt;li&gt;Prune old PR previews @CodexRaunak (#18695)&lt;/li&gt;
+&lt;li&gt;Bump axios from 1.13.6 to 1.15.0 in /provider-ui @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18628)&lt;/li&gt;
+&lt;li&gt;[mesheryctl] Align component view e2e assertions with current CLI output @hssuryawanshib23-afk (#18604)&lt;/li&gt;
+&lt;li&gt;[Server] Policies: Port OPA/Rego policy engine to native Go @guan404ming (#17330)&lt;/li&gt;
+&lt;li&gt;Bump helm.sh/helm/v3 from 3.19.4 to 3.20.2 @[dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;) (#18650)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="-contributors"&gt;
+	👨🏽‍💻 Contributors
+&lt;/h2&gt;
+&lt;p&gt;Thank you to our contributors for making this release possible:
+@CodexRaunak, @Copilot, @PragalvaXFREZ, @Rajesh-Nagarajan-11, @alexquincy, @ashwanisingh011, @dependabot[bot], @fitzergerald, @guan404ming, @hssuryawanshib23-afk, @l5io, @leecalcote, @lekaf974, @miacycle, @saurabhraghuvanshii, @winkletinkle and [dependabot[bot]](&lt;a href="https://github.com/apps/dependabot"&gt;https://github.com/apps/dependabot&lt;/a&gt;)&lt;/p&gt;</description></item><item><title>v1.0.7</title><link>/project/releases/v1.0.7/</link><pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate><guid>/project/releases/v1.0.7/</guid><description>&lt;h2 id="whats-new"&gt;
 	What&amp;rsquo;s New
 &lt;/h2&gt;
 &lt;h2 id="-general"&gt;
@@ -33002,7 +33108,7 @@ A &lt;strong&gt;&lt;a href="./concepts/logical/designs/"&gt;design&lt;/a&gt;&lt;
 &lt;h2 id="hands-on-lab"&gt;
 	Hands-on Lab
 &lt;/h2&gt;
-&lt;p&gt;Perform the following steps in order:&lt;/p&gt;</description></item><item><title>Kubevault</title><link>/extensions/models/kubevault/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault/</guid><description/></item><item><title>Kubevault Catalog</title><link>/extensions/models/kubevault-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-catalog/</guid><description/></item><item><title>Kubevault Crds</title><link>/extensions/models/kubevault-crds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-crds/</guid><description/></item><item><title>Kubevault Metrics</title><link>/extensions/models/kubevault-metrics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-metrics/</guid><description/></item><item><title>Kubevault Operator</title><link>/extensions/models/kubevault-operator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-operator/</guid><description/></item><item><title>Kubevela</title><link>/extensions/models/kubevela/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevela/</guid><description/></item><item><title>Kubevirt</title><link>/extensions/models/kubevirt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevirt/</guid><description/></item><item><title>Kuma</title><link>/extensions/models/kuma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kuma/</guid><description/></item><item><title>Kured</title><link>/extensions/models/kured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kured/</guid><description/></item><item><title>Kusk Gateway</title><link>/extensions/models/kusk-gateway/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kusk-gateway/</guid><description/></item><item><title>Kyverno</title><link>/extensions/models/kyverno/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno/</guid><description/></item><item><title>Kyverno Monitor</title><link>/extensions/models/kyverno-monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno-monitor/</guid><description/></item><item><title>Kyverno Operator</title><link>/extensions/models/kyverno-operator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno-operator/</guid><description/></item><item><title>Latest Release</title><link>/project/releases/latest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/releases/latest/</guid><description>&lt;h2&gt;v1.0.7&lt;/h2&gt;</description></item><item><title>Linkerd</title><link>/extensions/models/linkerd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/linkerd/</guid><description/></item><item><title>Linux</title><link>/extensions/models/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/linux/</guid><description/></item><item><title>Litmus Chaos</title><link>/extensions/models/litmus-core/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/litmus-core/</guid><description/></item><item><title>Loki</title><link>/extensions/models/loki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loki/</guid><description/></item><item><title>Loki Simple Scalable</title><link>/extensions/models/loki-simple-scalable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loki-simple-scalable/</guid><description/></item><item><title>Longhorn</title><link>/extensions/models/longhorn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/longhorn/</guid><description/></item><item><title>LoxiLB</title><link>/extensions/models/loxilb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loxilb/</guid><description/></item><item><title>Managing Connections</title><link>/guides/infrastructure-management/lifecycle-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/guides/infrastructure-management/lifecycle-management/</guid><description>&lt;p&gt;&lt;a name="lifecycle-management"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Perform the following steps in order:&lt;/p&gt;</description></item><item><title>Kubevault</title><link>/extensions/models/kubevault/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault/</guid><description/></item><item><title>Kubevault Catalog</title><link>/extensions/models/kubevault-catalog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-catalog/</guid><description/></item><item><title>Kubevault Crds</title><link>/extensions/models/kubevault-crds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-crds/</guid><description/></item><item><title>Kubevault Metrics</title><link>/extensions/models/kubevault-metrics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-metrics/</guid><description/></item><item><title>Kubevault Operator</title><link>/extensions/models/kubevault-operator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevault-operator/</guid><description/></item><item><title>Kubevela</title><link>/extensions/models/kubevela/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevela/</guid><description/></item><item><title>Kubevirt</title><link>/extensions/models/kubevirt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kubevirt/</guid><description/></item><item><title>Kuma</title><link>/extensions/models/kuma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kuma/</guid><description/></item><item><title>Kured</title><link>/extensions/models/kured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kured/</guid><description/></item><item><title>Kusk Gateway</title><link>/extensions/models/kusk-gateway/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kusk-gateway/</guid><description/></item><item><title>Kyverno</title><link>/extensions/models/kyverno/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno/</guid><description/></item><item><title>Kyverno Monitor</title><link>/extensions/models/kyverno-monitor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno-monitor/</guid><description/></item><item><title>Kyverno Operator</title><link>/extensions/models/kyverno-operator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/kyverno-operator/</guid><description/></item><item><title>Latest Release</title><link>/project/releases/latest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/releases/latest/</guid><description>&lt;h2&gt;v1.0.9&lt;/h2&gt;</description></item><item><title>Linkerd</title><link>/extensions/models/linkerd/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/linkerd/</guid><description/></item><item><title>Linux</title><link>/extensions/models/linux/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/linux/</guid><description/></item><item><title>Litmus Chaos</title><link>/extensions/models/litmus-core/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/litmus-core/</guid><description/></item><item><title>Loki</title><link>/extensions/models/loki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loki/</guid><description/></item><item><title>Loki Simple Scalable</title><link>/extensions/models/loki-simple-scalable/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loki-simple-scalable/</guid><description/></item><item><title>Longhorn</title><link>/extensions/models/longhorn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/longhorn/</guid><description/></item><item><title>LoxiLB</title><link>/extensions/models/loxilb/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/extensions/models/loxilb/</guid><description/></item><item><title>Managing Connections</title><link>/guides/infrastructure-management/lifecycle-management/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/guides/infrastructure-management/lifecycle-management/</guid><description>&lt;p&gt;&lt;a name="lifecycle-management"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Meshery manages hundreds of different types of cloud native infrastructure. See the &lt;a href="./extensibility/integrations"&gt;full set of integrations&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="cloud-native-infrastructure-lifecycle-management"&gt;
 	Cloud Native Infrastructure Lifecycle Management
@@ -34245,7 +34351,7 @@ mesheryctl environment create [flags]
 &lt;p&gt;Create a new environment&lt;/p&gt;
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
-mesheryctl environment create --orgID [orgID] --name [name] --description [description]
+mesheryctl environment create --orgId [orgId] --name [name] --description [description]
 
 &lt;/div&gt;
 &lt;/pre&gt; 
@@ -34257,7 +34363,7 @@ mesheryctl environment create --orgID [orgID] --name [name] --description [descr
  -d, --description string Description of the environment
  -h, --help help for create
  -n, --name string Name of the environment
- -o, --orgID string Organization ID
+ -o, --orgId string Organization ID
 
 &lt;/div&gt;
 &lt;/pre&gt;
@@ -34340,21 +34446,21 @@ mesheryctl environment list [flags]
 &lt;p&gt;List all registered environment&lt;/p&gt;
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
-mesheryctl environment list --orgID [orgID]
+mesheryctl environment list --orgId [orgId]
 
 &lt;/div&gt;
 &lt;/pre&gt; 
 &lt;p&gt;List count of all registered environment&lt;/p&gt;
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
-mesheryctl environment list --orgID [orgID] --count
+mesheryctl environment list --orgId [orgId] --count
 
 &lt;/div&gt;
 &lt;/pre&gt; 
 &lt;p&gt;List all registered environment at a specific page&lt;/p&gt;
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
-mesheryctl environment list --orgID [orgID] --page [page]
+mesheryctl environment list --orgId [orgId] --page [page]
 
 &lt;/div&gt;
 &lt;/pre&gt; 
@@ -34378,7 +34484,7 @@ mesheryctl environment view [flags]
 &lt;p&gt;View details of a specific environment&lt;/p&gt;
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
-mesheryctl environment view --orgID [orgID]
+mesheryctl environment view --orgId [orgId]
 
 &lt;/div&gt;
 &lt;/pre&gt; 
@@ -34388,7 +34494,7 @@ mesheryctl environment view --orgID [orgID]
 &lt;pre class='codeblock-pre'&gt;
 &lt;div class='codeblock'&gt;
  -h, --help help for view
- --orgID string Organization ID
+ --orgId string Organization ID
  -o, --output-format string (optional) format to display in [json|yaml] (default "yaml")
  -s, --save (optional) save output as a JSON/YAML file
 
